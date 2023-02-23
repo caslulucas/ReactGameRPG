@@ -1,6 +1,6 @@
 # Project Game RPG
 
-![Preview](.\readme.png)
+![Preview](./readme.png)
 
 open project
 
