@@ -1,9 +1,12 @@
 # Project Game RPG
 
-![Preview](.\game\rpg\readme.png)
+![Preview](.\readme.png)
+
+open project
+
+###  `cd rpg`
 
 In the project directory, you can run:
-
 
 ###  `npm install` 
 
